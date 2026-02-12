@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AliExpress.Services.Implements
+namespace AliExpress.Exceptions.NotFoundException
 {
-    public class ProductService
+    public class CustomerNotFoundException
     {
     }
 }

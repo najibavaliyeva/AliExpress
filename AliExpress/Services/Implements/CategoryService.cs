@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AliExpress.Services.Implements
 {
-    internal class CategoryService
+    public class CategoryService
     {
     }
 }
