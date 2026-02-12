@@ -1,0 +1,4 @@
+D:\Web Development\C#\AliExpress\AliExpress\obj\Debug\net8.0\AliExpress.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Development\C#\AliExpress\AliExpress\obj\Debug\net8.0\AliExpress.AssemblyInfoInputs.cache
+D:\Web Development\C#\AliExpress\AliExpress\obj\Debug\net8.0\AliExpress.AssemblyInfo.cs
+D:\Web Development\C#\AliExpress\AliExpress\obj\Debug\net8.0\AliExpress.csproj.CoreCompileInputs.cache

@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web Development\\C#\\AliExpress\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|d:\\web development\\c#\\aliexpress\\aliexpress\\services\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\services\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|d:\\web development\\c#\\aliexpress\\aliexpress\\dtos\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\dtos\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|d:\\web development\\c#\\aliexpress\\aliexpress\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|d:\\web development\\c#\\aliexpress\\aliexpress\\dtos\\customer\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\dtos\\customer\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|d:\\web development\\c#\\aliexpress\\aliexpress\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|d:\\web development\\c#\\aliexpress\\aliexpress\\dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|d:\\web development\\c#\\aliexpress\\aliexpress\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|d:\\web development\\c#\\aliexpress\\aliexpress\\dtos\\catalog\\catalogcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\dtos\\catalog\\catalogcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|d:\\web development\\c#\\aliexpress\\aliexpress\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|d:\\web development\\c#\\aliexpress\\aliexpress\\services\\implements\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\services\\implements\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|d:\\web development\\c#\\aliexpress\\aliexpress\\services\\implements\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\services\\implements\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|d:\\web development\\c#\\aliexpress\\aliexpress\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|d:\\web development\\c#\\aliexpress\\aliexpress\\services\\implements\\catalogservive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\services\\implements\\catalogservive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|d:\\web development\\c#\\aliexpress\\aliexpress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|d:\\web development\\c#\\aliexpress\\aliexpress\\aliexpress.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\aliexpress.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerCreateDto.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\DTOs\\Customer\\CustomerCreateDto.cs",
+              "RelativeDocumentMoniker": "AliExpress\\DTOs\\Customer\\CustomerCreateDto.cs",
+              "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\DTOs\\Customer\\CustomerCreateDto.cs*",
+              "RelativeToolTip": "AliExpress\\DTOs\\Customer\\CustomerCreateDto.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:20:55.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "AliExpress\\Models\\Customer.cs",
+              "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Models\\Customer.cs",
+              "RelativeToolTip": "AliExpress\\Models\\Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:06:40.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\DTOs\\Product\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "AliExpress\\DTOs\\Product\\ProductCreateDto.cs",
+              "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\DTOs\\Product\\ProductCreateDto.cs*",
+              "RelativeToolTip": "AliExpress\\DTOs\\Product\\ProductCreateDto.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:21:08.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AliExpress\\Models\\Product.cs",
+              "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Models\\Product.cs",
+              "RelativeToolTip": "AliExpress\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:16:12.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Services\\Interfaces\\IGenericService.cs",
+              "RelativeDocumentMoniker": "AliExpress\\Services\\Interfaces\\IGenericService.cs",
+              "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Services\\Interfaces\\IGenericService.cs*",
+              "RelativeToolTip": "AliExpress\\Services\\Interfaces\\IGenericService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:16:28.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\DTOs\\Category\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "AliExpress\\DTOs\\Category\\CategoryCreateDto.cs",
+              "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\DTOs\\Category\\CategoryCreateDto.cs*",
+              "RelativeToolTip": "AliExpress\\DTOs\\Category\\CategoryCreateDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:20:39.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "AliExpress\\Models\\Category.cs",
+              "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Models\\Category.cs",
+              "RelativeToolTip": "AliExpress\\Models\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:06:26.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CatalogCreateDto.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\DTOs\\Catalog\\CatalogCreateDto.cs",
+              "RelativeDocumentMoniker": "AliExpress\\DTOs\\Catalog\\CatalogCreateDto.cs",
+              "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\DTOs\\Catalog\\CatalogCreateDto.cs*",
+              "RelativeToolTip": "AliExpress\\DTOs\\Catalog\\CatalogCreateDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:20:19.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Catalog.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Models\\Catalog.cs",
+              "RelativeDocumentMoniker": "AliExpress\\Models\\Catalog.cs",
+              "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Models\\Catalog.cs*",
+              "RelativeToolTip": "AliExpress\\Models\\Catalog.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:06:15.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Services\\Implements\\ProductService.cs",
+              "RelativeDocumentMoniker": "AliExpress\\Services\\Implements\\ProductService.cs",
+              "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Services\\Implements\\ProductService.cs",
+              "RelativeToolTip": "AliExpress\\Services\\Implements\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:18:01.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Services\\Implements\\CustomerService.cs",
+              "RelativeDocumentMoniker": "AliExpress\\Services\\Implements\\CustomerService.cs",
+              "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Services\\Implements\\CustomerService.cs",
+              "RelativeToolTip": "AliExpress\\Services\\Implements\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:17:44.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Services\\Implements\\CategoryService.cs",
+              "RelativeDocumentMoniker": "AliExpress\\Services\\Implements\\CategoryService.cs",
+              "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Services\\Implements\\CategoryService.cs",
+              "RelativeToolTip": "AliExpress\\Services\\Implements\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:17:28.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CatalogServive.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Services\\Implements\\CatalogServive.cs",
+              "RelativeDocumentMoniker": "AliExpress\\Services\\Implements\\CatalogServive.cs",
+              "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Services\\Implements\\CatalogServive.cs",
+              "RelativeToolTip": "AliExpress\\Services\\Implements\\CatalogServive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:16:53.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AliExpress",
+              "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\AliExpress.csproj",
+              "RelativeDocumentMoniker": "AliExpress\\AliExpress.csproj",
+              "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\AliExpress.csproj*",
+              "RelativeToolTip": "AliExpress\\AliExpress.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-09T23:05:44.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Program.cs",
+              "RelativeDocumentMoniker": "AliExpress\\Program.cs",
+              "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Program.cs",
+              "RelativeToolTip": "AliExpress\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:05:32.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
