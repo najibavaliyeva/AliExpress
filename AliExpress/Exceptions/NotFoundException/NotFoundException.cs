@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace AliExpress.Exceptions.NotFoundException
 {
-    public class CustomerNotFoundException : NotFoundException
+    public class NotFoundException: Exception
     {
-        public CustomerNotFoundException() : base("Customer")
+        public NotFoundException(string message) : base($"{message} was not found!")
         {
         }
     }

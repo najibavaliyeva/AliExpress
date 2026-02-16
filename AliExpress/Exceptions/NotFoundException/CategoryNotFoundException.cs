@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace AliExpress.Exceptions.NotFoundException
 {
-    public class CategoryNotFoundException
+    public class CategoryNotFoundException : NotFoundException
     {
+        public CategoryNotFoundException( ) : base("Category")
+        {
+        }
     }
 }

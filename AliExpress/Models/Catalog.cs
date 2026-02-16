@@ -8,7 +8,7 @@ namespace AliExpress.Models
 {
     public class Catalog
     {
-        int Id { get; set; }
+         public int Id { get; set; }
         public string Name { get; set; }
 
     }

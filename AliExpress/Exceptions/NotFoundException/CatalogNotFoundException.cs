@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace AliExpress.Exceptions.NotFoundException
 {
-    public class CatalogNotFoundException 
+    public class CatalogNotFoundException : NotFoundException
     {
+        public CatalogNotFoundException( ) : base("Catalog")
+        {
+        }
     }
 }

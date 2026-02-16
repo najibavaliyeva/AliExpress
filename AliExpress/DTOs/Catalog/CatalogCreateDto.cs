@@ -8,7 +8,7 @@ namespace AliExpress.DTOs.Catalog
 {
     public class CatalogCreateDto
     {
-        int Id { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
 
     }
