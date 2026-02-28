@@ -3,3 +3,13 @@ D:\Web Development\C#\AliExpress\AliExpress\obj\Debug\net8.0\AliExpress.Assembly
 D:\Web Development\C#\AliExpress\AliExpress\obj\Debug\net8.0\AliExpress.AssemblyInfo.cs
 D:\Web Development\C#\AliExpress\AliExpress\obj\Debug\net8.0\AliExpress.csproj.CoreCompileInputs.cache
 D:\Web Development\C#\AliExpress\AliExpress\obj\Debug\net8.0\AliExpress.sourcelink.json
+D:\Web Development\C#\AliExpress\AliExpress\bin\Debug\net8.0\AliExpress.exe
+D:\Web Development\C#\AliExpress\AliExpress\bin\Debug\net8.0\AliExpress.deps.json
+D:\Web Development\C#\AliExpress\AliExpress\bin\Debug\net8.0\AliExpress.runtimeconfig.json
+D:\Web Development\C#\AliExpress\AliExpress\bin\Debug\net8.0\AliExpress.dll
+D:\Web Development\C#\AliExpress\AliExpress\bin\Debug\net8.0\AliExpress.pdb
+D:\Web Development\C#\AliExpress\AliExpress\obj\Debug\net8.0\AliExpress.dll
+D:\Web Development\C#\AliExpress\AliExpress\obj\Debug\net8.0\refint\AliExpress.dll
+D:\Web Development\C#\AliExpress\AliExpress\obj\Debug\net8.0\AliExpress.pdb
+D:\Web Development\C#\AliExpress\AliExpress\obj\Debug\net8.0\AliExpress.genruntimeconfig.cache
+D:\Web Development\C#\AliExpress\AliExpress\obj\Debug\net8.0\ref\AliExpress.dll

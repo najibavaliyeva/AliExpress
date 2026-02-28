@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace AliExpress.Services.Implements
 {
-    public class CatalogServive : IGenericService<CatalogCreateDto>
+    public class CatalogService : IGenericService<CatalogCreateDto>
     {
         private List<Catalog> _catalogs = new List<Catalog>();
         public void Create(CatalogCreateDto dto)
@@ -26,10 +26,9 @@ namespace AliExpress.Services.Implements
         public void Delete(int id)
         {
             var catalog = _catalogs.FirstOrDefault(c => c.Id == id);
-            if (catalog != null) throw new CatalogNotFoundException();
-            {
+            if (catalog == null) throw new CatalogNotFoundException();
                 _catalogs.Remove(catalog);
-            }
+            
 
         }
         public void GetById(int id)
