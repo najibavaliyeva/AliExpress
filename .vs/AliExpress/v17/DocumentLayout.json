@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|d:\\web development\\c#\\aliexpress\\aliexpress\\services\\implements\\catalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\services\\implements\\catalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|d:\\web development\\c#\\aliexpress\\aliexpress\\services\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\services\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -71,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|d:\\web development\\c#\\aliexpress\\aliexpress\\services\\implements\\catalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\services\\implements\\catalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|d:\\web development\\c#\\aliexpress\\aliexpress\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5849F44E-7F78-4703-BDEE-F010C8118CE6}|AliExpress\\AliExpress.csproj|solutionrelative:aliexpress\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -98,24 +98,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "AliExpress\\Models\\Customer.cs",
-              "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Models\\Customer.cs",
-              "RelativeToolTip": "AliExpress\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T23:06:40.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Models\\Product.cs",
               "RelativeDocumentMoniker": "AliExpress\\Models\\Product.cs",
@@ -123,12 +110,11 @@
               "RelativeToolTip": "AliExpress\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T23:16:12.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T23:16:12.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Services\\Implements\\CustomerService.cs",
               "RelativeDocumentMoniker": "AliExpress\\Services\\Implements\\CustomerService.cs",
@@ -136,12 +122,11 @@
               "RelativeToolTip": "AliExpress\\Services\\Implements\\CustomerService.cs",
               "ViewState": "AgIAABsAAAAAAAAAAADwvzIAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T10:17:44.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T10:17:44.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Services\\Implements\\ProductService.cs",
               "RelativeDocumentMoniker": "AliExpress\\Services\\Implements\\ProductService.cs",
@@ -149,12 +134,11 @@
               "RelativeToolTip": "AliExpress\\Services\\Implements\\ProductService.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwDEAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T10:18:01.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T10:18:01.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IGenericService.cs",
               "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Services\\Interfaces\\IGenericService.cs",
               "RelativeDocumentMoniker": "AliExpress\\Services\\Interfaces\\IGenericService.cs",
@@ -162,8 +146,7 @@
               "RelativeToolTip": "AliExpress\\Services\\Interfaces\\IGenericService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T10:16:28.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T10:16:28.194Z"
             },
             {
               "$type": "Document",
@@ -173,14 +156,47 @@
               "RelativeDocumentMoniker": "AliExpress\\Program.cs",
               "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Program.cs",
               "RelativeToolTip": "AliExpress\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T23:05:32.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatalogService.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Services\\Implements\\CatalogService.cs",
+              "RelativeDocumentMoniker": "AliExpress\\Services\\Implements\\CatalogService.cs",
+              "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Services\\Implements\\CatalogService.cs",
+              "RelativeToolTip": "AliExpress\\Services\\Implements\\CatalogService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:16:53.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "AliExpress\\Models\\Customer.cs",
+              "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Models\\Customer.cs",
+              "RelativeToolTip": "AliExpress\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:06:40.113Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Models\\Category.cs",
               "RelativeDocumentMoniker": "AliExpress\\Models\\Category.cs",
@@ -188,12 +204,11 @@
               "RelativeToolTip": "AliExpress\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T23:06:26.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T23:06:26.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PriceExtension.cs",
               "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Extensions\\PriceExtension.cs",
               "RelativeDocumentMoniker": "AliExpress\\Extensions\\PriceExtension.cs",
@@ -201,12 +216,11 @@
               "RelativeToolTip": "AliExpress\\Extensions\\PriceExtension.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T00:30:41.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T00:30:41.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ProductNotFoundException.cs",
               "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Exceptions\\NotFoundExceptions\\ProductNotFoundException.cs",
               "RelativeDocumentMoniker": "AliExpress\\Exceptions\\NotFoundExceptions\\ProductNotFoundException.cs",
@@ -214,12 +228,11 @@
               "RelativeToolTip": "AliExpress\\Exceptions\\NotFoundExceptions\\ProductNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T15:22:14.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T15:22:14.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Exceptions\\NotFoundExceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "AliExpress\\Exceptions\\NotFoundExceptions\\NotFoundException.cs",
@@ -227,12 +240,11 @@
               "RelativeToolTip": "AliExpress\\Exceptions\\NotFoundExceptions\\NotFoundException.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T21:53:21.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T21:53:21.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CustomerCreateDto.cs",
               "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\DTOs\\Customer\\CustomerCreateDto.cs",
               "RelativeDocumentMoniker": "AliExpress\\DTOs\\Customer\\CustomerCreateDto.cs",
@@ -240,12 +252,11 @@
               "RelativeToolTip": "AliExpress\\DTOs\\Customer\\CustomerCreateDto.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwBAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T10:20:55.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T10:20:55.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ProductCreateDto.cs",
               "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\DTOs\\Product\\ProductCreateDto.cs",
               "RelativeDocumentMoniker": "AliExpress\\DTOs\\Product\\ProductCreateDto.cs",
@@ -253,12 +264,11 @@
               "RelativeToolTip": "AliExpress\\DTOs\\Product\\ProductCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T10:21:08.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T10:21:08.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PriceInvalidException.cs",
               "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Exceptions\\InvalidExceptions\\PriceInvalidException.cs",
               "RelativeDocumentMoniker": "AliExpress\\Exceptions\\InvalidExceptions\\PriceInvalidException.cs",
@@ -270,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "CustomerNotFoundException.cs",
               "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Exceptions\\NotFoundExceptions\\CustomerNotFoundException.cs",
               "RelativeDocumentMoniker": "AliExpress\\Exceptions\\NotFoundExceptions\\CustomerNotFoundException.cs",
@@ -282,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CategoryNotFoundException.cs",
               "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Exceptions\\NotFoundExceptions\\CategoryNotFoundException.cs",
               "RelativeDocumentMoniker": "AliExpress\\Exceptions\\NotFoundExceptions\\CategoryNotFoundException.cs",
@@ -294,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "CatalogNotFoundException.cs",
               "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Exceptions\\NotFoundExceptions\\CatalogNotFoundException.cs",
               "RelativeDocumentMoniker": "AliExpress\\Exceptions\\NotFoundExceptions\\CatalogNotFoundException.cs",
@@ -306,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Services\\Implements\\CategoryService.cs",
               "RelativeDocumentMoniker": "AliExpress\\Services\\Implements\\CategoryService.cs",
@@ -315,18 +325,6 @@
               "ViewState": "AgIAABkAAAAAAAAAAAAQwB4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T10:17:28.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CatalogService.cs",
-              "DocumentMoniker": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Services\\Implements\\CatalogService.cs",
-              "RelativeDocumentMoniker": "AliExpress\\Services\\Implements\\CatalogService.cs",
-              "ToolTip": "D:\\Web Development\\C#\\AliExpress\\AliExpress\\Services\\Implements\\CatalogService.cs",
-              "RelativeToolTip": "AliExpress\\Services\\Implements\\CatalogService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T10:16:53.384Z"
             },
             {
               "$type": "Document",
@@ -375,14 +373,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-02-09T23:05:44.775Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

@@ -48,4 +48,6 @@ var product1 = new ProductCreateDto
     DiscountedPercentage = 87,
     ImageUrl = "https://example.com/iphone13.jpg"
 };
+
+
 #endregion
