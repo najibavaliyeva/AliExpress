@@ -10,11 +10,13 @@ using System.Threading.Tasks;
 
 namespace AliExpress.Services.Implements
 {
-    public class CategoryService : IGenericService<CategoryCreateDto>
+    public class CategoryService 
     {
         private List<Category> _categories = new List<Category>();
-        public void Create(CategoryCreateDto dto)
+        public Action<CategoryCreteDto> Create;
+        C
         { var category = new Category
+       
             {
                 Id = dto.Id,
                 Name = dto.Name,

@@ -8,7 +8,7 @@ using AliExpress.DTOs.Product;
 using AliExpress.Services.Implements;
 using AliExpress.Services.Interfaces;
 
-IGenericService<CatalogCreateDto> catalogService = new CatalogService();
+CatalogService catalogService = new CatalogService();
 var catalog1 = new CatalogCreateDto { Id = 1, Name = "Electronics" };
 var catalog2 = new CatalogCreateDto { Id = 2, Name = "Clothing" };
 #endregion

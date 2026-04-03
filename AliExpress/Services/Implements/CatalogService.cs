@@ -2,6 +2,7 @@
 using AliExpress.Exceptions.NotFoundException;
 using AliExpress.Models;
 using AliExpress.Services.Interfaces;
+using Microsoft.VisualBasic.FileIO;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,39 +11,47 @@ using System.Threading.Tasks;
 
 namespace AliExpress.Services.Implements
 {
-    public class CatalogService : IGenericService<CatalogCreateDto>
+    public class CatalogService 
     {
         private List<Catalog> _catalogs = new List<Catalog>();
-        public void Create(CatalogCreateDto dto)
+        public Action<CatalogCreateDto> Create;
+        public Action<int> Delete;
+        public Action GetAll;
+        public Action<int> Get;
+        public CatalogService()
         {
-            var catalog = new Catalog
-            {
-                Id = dto.Id,
-                Name = dto.Name
-
-            };
-            _catalogs.Add(catalog);
-        }
-        public void Delete(int id)
-        {
-            var catalog = _catalogs.FirstOrDefault(c => c.Id == id);
-            if (catalog == null) throw new CatalogNotFoundException();
-                _catalogs.Remove(catalog);
             
-
-        }
-        public void GetById(int id)
-        {
-            var catalog = _catalogs.FirstOrDefault(c => c.Id == id);
-            if (catalog == null) throw new CatalogNotFoundException();
-            Console.WriteLine($"Catalog Id: {catalog.Id}, Name: {catalog.Name}");
-        }
-        public void GetAll()
-        {
-            foreach (var catalog in _catalogs)
+            Create = (dto) =>
             {
+                var catalog = new Catalog()
+                {
+                    Id = dto.Id,
+                    Name = dto.Name
+                }; _catalogs.Add(catalog);
+            };
+
+            Delete = (id) =>
+            {
+                var catalog = _catalogs.FirstOrDefault(c => c.Id == id);
+                if (catalog == null) throw new CatalogNotFoundException();
+                _catalogs.Remove(catalog);
+            };
+            GetAll = () =>
+            {
+
+                foreach (var catalog in _catalogs)
+                {
+                    Console.WriteLine($"Catalog Id: {catalog.Id}, Name: {catalog.Name}");
+                }
+            };
+            Get = (id) =>
+            {
+                var catalog = _catalogs.FirstOrDefault(c => c.Id == id);
+                if (catalog == null) throw new CatalogNotFoundException();
                 Console.WriteLine($"Catalog Id: {catalog.Id}, Name: {catalog.Name}");
-            }
+            };
         }
-    }
+
+       
+    };
 }
